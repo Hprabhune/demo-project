@@ -1,1 +1,1 @@
-print("jhgfdfgh")
+print("cls")

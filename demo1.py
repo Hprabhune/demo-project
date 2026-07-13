@@ -1,1 +1,2 @@
 print("cls")
+print("cls")
